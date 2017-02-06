@@ -14,8 +14,6 @@ and are adopted from the Software Carpentry
 
 ### Running a remote command line on your web browser
 
-<img src="images/jupyterhub-terminal.png"></img>
-
 All work will be done on your web browser - no need to
 install any additional software. 
 You will enter commands remotely into the Palmetto cluster - the
