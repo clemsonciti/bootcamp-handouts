@@ -57,3 +57,4 @@ a terminal.
 | `git pull`    | Pull changes from remote repository to local repository |
 | `git clone`   | Copy a remote repository to create a local repository |
 
+See also the official cheat-sheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
