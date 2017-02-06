@@ -19,7 +19,7 @@ install any additional software.
 You will enter commands remotely into the Palmetto cluster - the
 University's high-performance computing (HPC) resource.
 After the workshop, we will discuss how to install/use
-the command-line on your own computer and OS.
+Git on your own computer and OS.
 
 To open a remote command-line on Palmetto:
 
