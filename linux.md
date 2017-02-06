@@ -14,7 +14,7 @@ and are adopted from the Software Carpentry
 
 ### Running a remote command line on your web browser
 
-<img src="images/jupyter-terminal.png"></img>
+<img src="images/jupyterhub-terminal.png"></img>
 
 All work will be done on your web browser - no need to
 install any additional software. 
