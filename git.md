@@ -44,6 +44,7 @@ a terminal.
 ## Summary of Basic Commands
 
 | Command       | Action                                            |
+|---------------|---------------------------------------------------|
 | `git config`  | Configure username, e-mail address, editor, etc., |
 | `git init`    | Initialize a repository                           |
 | `git status`  | Show the status of a repository                   |
