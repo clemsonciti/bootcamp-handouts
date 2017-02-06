@@ -7,7 +7,7 @@ The lesson materials for this workshop can be found at:
 
 http://clemsonciti.github.io/linux-workshop/
 
-and are adopted from the Software Carpentry
+and are adapted from the Software Carpentry
 (https://software-carpentry.org/) curriculum.
 
 ## Setup
